@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.parent{
+  width: 100px;
+}
+
+p{
+  background: orange;
+}
